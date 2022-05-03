@@ -1,0 +1,133 @@
+
+# Cosas específicas del usuario
+.idea/workspace.xml
+.idea/**/espacio de trabajo.xml
+.idea/**/tareas.xml
+.idea/**/uso.estadísticas.xml
+.idea/**/diccionarios
+.idea/**/estante
+
+# Específico del usuario de AWS
+.idea/**/aws.xml
+
+# archivos generados
+.idea/**/contentModel.xml
+
+# Archivos confidenciales o de alta rotación
+.idea/**/fuentes de datos/
+.idea/**/fuentes de datos.ids
+.idea/**/fuentes de datos.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dinámica.xml
+.idea/**/uiDesigner.xml
+.idea/**/dbnavigator.xml
+
+#Gradle
+.idea/**/gradle.xml
+.idea/**/bibliotecas
+
+# Gradle y Maven con importación automática
+# Al usar Gradle o Maven con importación automática, debe excluir los archivos del módulo,
+# ya que se volverán a crear y pueden causar abandono. Descomente si usa
+# importación automática.
+# .idea/artefactos
+# .idea/compilador.xml
+# .idea/jarRepositories.xml
+# .idea/modulos.xml
+# .idea/*.iml
+# .idea/módulos
+# *.iml
+# *.ipr
+
+# CHacer
+cmake-construir-*/
+
+# Complemento Mongo Explorer
+.idea/**/mongoConfiguraciones.xml
+
+# Formato de proyecto basado en archivos
+*.iws
+
+#IntelliJ
+afuera/
+
+# Complemento mpeltonen/sbt-idea
+.idea_modules/
+
+# Complemento JIRA
+atlassian-ide-plugin.xml
+
+# Complemento de Clojure cursiva
+.idea/replstate.xml
+
+# Complemento SonarLint
+.idea/sonarlint/
+
+# Complemento Crashlytics (para Android Studio e IntelliJ)
+com_crashlytics_export_strings.xml
+crashlytics.propiedades
+crashlytics-build.propiedades
+tela.propiedades
+
+# Cliente de reposo basado en editor
+.idea/httpRequests
+
+# Android studio 3.1+ archivo de caché serializado
+.idea/caches/build_file_checksums.ser
+
+### Parche WebStorm ###
+# Motivo del comentario: https://github.com/joeblau/gitignore.io/issues/186#issuecomment-215987721
+
+# *.iml
+# módulos.xml
+# .idea/misc.xml
+# *.ipr
+
+# Complemento Sonarlint
+# https://plugins.jetbrains.com/plugin/7973-sonarlint
+.idea/**/sonarlint/
+
+# Complemento SonarQube
+# https://plugins.jetbrains.com/plugin/7238-sonarqube-community-plugin
+.idea/**/sonarIssues.xml
+
+# Complemento Markdown Navigator
+# https://plugins.jetbrains.com/plugin/7896-markdown-navigator-mejorado
+.idea/**/markdown-navegador.xml
+.idea/**/markdown-navigator-enh.xml
+.idea/**/markdown-navegador/
+
+# Error de creación de archivo de caché
+# Ver https://youtrack.jetbrains.com/issue/JBR-2257
+.idea/$CACHE_FILE$
+
+# Complemento CodeStream
+# https://plugins.jetbrains.com/plugin/12206-codestream
+.idea/codestream.xml
+
+### Ventanas ###
+# Archivos de caché de miniaturas de Windows
+Pulgares.db
+Thumbs.db: encriptable
+ehthumbs.db
+ehthumbs_vista.db
+
+# Volcar archivo
+*.stackdump
+
+# archivo de configuración de la carpeta
+[Dd]esktop.ini
+
+# Papelera de reciclaje utilizada en archivos compartidos
+$RECICLAJE.BIN/
+
+# archivos del instalador de Windows
+*.taxi
+*.msi
+*.msix
+*.msm
+*.msp
+
+# Atajos de Windows
+*.lnk
+
